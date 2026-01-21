@@ -1,0 +1,28 @@
+Case Study: E-Commerce Automation 
+
+Problem Statement: 
+Automate Search functionality and Laptop price amount validation of Online shopping Website. 
+Price less than Rs. 50000
+
+Suggested site: Flipkart.com, however you are free to choose any other legitimate shopping site. 
+
+Detailed Description: 
+1: Launch any browser as per the user input ex: Chrome/Firefox.
+2: Open the online shopping website ex: https://www.flipkart.com/.
+3: In the search box enter the keyword “Laptops”.
+4: Verify the results displayed are according to search criteria
+5: In the Filters section, Select the processor generation as Gen14.
+6: Select the operating system version name as “Win 11”.
+7: In the Filters section, drag the price bar to 50000 as max price
+8: Take a screenshot of the displayed results.
+9: Add a check point to validate whether all the laptop prices are “Less than 50000”.
+10: Close the browser.
+
+
+Key Automation Scope: 
+Handling multiple browsers Chrome/Firefox
+Using appropriate synchronization technique 
+Locating elements precisely 
+Exception handling 
+Handling dropdown list
+ 
